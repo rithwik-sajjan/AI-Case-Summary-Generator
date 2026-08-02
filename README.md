@@ -1,21 +1,6 @@
 # AI-Case-Summary-Generator
 AI-powered legal case summarizer using Google Gemini API and Streamlit.
 # ⚖️ AI Case Summary Generator
-<img width="1911" height="1026" alt="Screenshot 2026-08-02 101730" src="https://github.com/user-attachments/assets/2fe9c7d3-9f09-4f31-a046-edaca6f33286" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 An AI-powered web application that transforms lengthy legal case documents into structured and easy-to-understand summaries using Google's Gemini AI.
 
 Built with **Python**, **Streamlit**, and **Google Gemini API**, this tool helps lawyers, law students, researchers, and legal professionals quickly understand legal judgments.
